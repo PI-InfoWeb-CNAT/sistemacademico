@@ -9,13 +9,13 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 
 
 ## Artefatos do projeto
-* Documento de visão
+* [Documento de visão](https://github.com/PI-InfoWeb-CNAT/sistemacademico/wiki)
 * Documento de Requisitos
 * Diagrama de casos de uso
 * Detalhamento de casos de uso 
-  1. Abrir Agenda do Dia
-  2. Consultar Agenda do Dia
-  3. Dashboard de Agenda
+  1. Criar conta de responsável
+  2. Inscrever criança na colônia de férias
+  3. Sortear inscrições
 * Diagrama de classes de domínio
 * Diagrama de arquitetura
 
@@ -26,8 +26,8 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 
 ## Time
 * [Leonardo Ataide Minora](https://github.com/leonardo-minora)
-* Alison Mikayon da Silva Farias
-* Antony Gabriel Melo de Bastos 
+* [Alison Mikayon da Silva Farias](https://github.com/AlisonMika)
+* [Antony Gabriel Melo de Bastos](https://github.com/TxonyB)
 * Bruno Felipe Rocha Freitas
-* Kleber Bruno Ferreira Damasceno
+* [Kleber Bruno Ferreira Damasceno](https://github.com/kleberferr)
 
