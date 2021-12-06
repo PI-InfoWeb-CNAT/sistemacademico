@@ -9,8 +9,8 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 ## Artefatos do projeto
 
 -  [Documento de visão](https://github.com/PI-InfoWeb-CNAT/sistemacademico/wiki)
--  Documento de Requisitos
--  Diagrama de casos de uso
+-  [Documento de Requisitos](https://github.com/PI-InfoWeb-CNAT/sistemacademico/wiki/requisitos)
+-  [Documento do Diagrama de casos de uso](https://github.com/PI-InfoWeb-CNAT/sistemacademico/wiki/DiagramaDeCasoDeUso)
 -  Detalhamento de casos de uso
    1. Criar conta de responsável
    2. Inscrever criança na colônia de férias
