@@ -12,7 +12,7 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 -  [Documento de Requisitos](https://github.com/PI-InfoWeb-CNAT/sistemacademico/wiki/requisitos)
 -  [Documento do Diagrama de casos de uso](https://github.com/PI-InfoWeb-CNAT/sistemacademico/wiki/DiagramaDeCasoDeUso)
 -  Detalhamento de casos de uso
-   1. Criar conta de responsável
+   1. [Criar conta de responsável](https://github.com/PI-InfoWeb-CNAT/sistemacademico/wiki/CDU-01-CriarContaResponsavel)
    2. Inscrever criança na colônia de férias
    3. Sortear inscrições
 -  Diagrama de classes de domínio
